@@ -1,5 +1,5 @@
 Usage:
-python run.py <mode: s/qq/sm> <directory to compare against> --ref <input.mid> --ref <input2.mid>
+python run.py <mode> <directory to compare against> --ref <input.mid> --ref <input2.mid>
 
 e.g. run.py s N:/Documents/Midi_collection --ref mysong.mid
 
